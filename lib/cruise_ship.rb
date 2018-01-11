@@ -12,3 +12,4 @@ def select_winner(passengers)
     if suite = :suite_a && name.star_with?("A")
       puts "#{name}"
 end
+end
