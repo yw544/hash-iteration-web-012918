@@ -8,5 +8,7 @@
 
 def select_winner(passengers)
   # add the code snippet here!
-  puts "Amanda Presley"
+  passengers.each do |suite, name|
+    if suite = :suite_a && name.star_with?("A") 
+      puts name
 end
