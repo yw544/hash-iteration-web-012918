@@ -8,6 +8,5 @@
 
 def select_winner(passengers)
   # add the code snippet here!
-
+  puts "Amanda Presley"
 end
-puts "Amanda Presley"
