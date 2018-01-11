@@ -9,6 +9,6 @@
 def select_winner(passengers)
   # add the code snippet here!
   passengers.each do |suite, name|
-    if suite = :suite_a && name.star_with?("A") 
+    if suite = :suite_a && name.star_with?("A")
       puts name
 end
